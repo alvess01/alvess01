@@ -11,6 +11,8 @@
 
 - ⚡ Se quiser me adicionar no Discord: **alvess#0001**
 
+- 🎧 Adicione meu BOT de música em seu server: **https://top.gg/bot/799798733381304330**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alvesss_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alvesss_0" height="30" width="40" /></a>
