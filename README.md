@@ -3,11 +3,11 @@
 
 - 🔭 Projeto atual: **atualmente, estou desenvolvendo a "Paula", um BOT atualmente fechado para um server de amigos no Discord.**
 
-- 🤝 Meus objetivos: **quero apenas crescer dentro do mundo da programação, mas levando tudo apenas como hobbie e experiência.**
-
 - 💬 Uma frase: "Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor". **Coloquei essa frase do Elon Musk, um cara completamente apaixonado pela tecnologia e pelo futuro do mundo, sendo a minha principal inspiração desde que o conheci.**
 
-- 🚘 Objetivo da vida: **comprar um Tesla Model 3.**
+- 🤝 Meus objetivos na programação: **quero apenas crescer dentro do mundo da programação, mas levando tudo apenas como hobbie e experiência.**
+
+- 🚘 Objetivo na vida atual: **comprar um Tesla Model 3.**
 
 - ⚡ Se quiser me adicionar no Discord: **alvess#0001**
 
