@@ -9,7 +9,7 @@
 
 - 🚘 Objetivo na vida atual: **comprar um Tesla Model 3.**
 
-- ⚡ Se quiser me adicionar no Discord: **alvess#0001**
+- ⚡ Se quiser me adicionar no Discord: **alves#0001**
 
 - 🎧 Adicione meu BOT de música em seu server: **http://djbot.epizy.com/**
 
