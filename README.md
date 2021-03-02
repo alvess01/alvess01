@@ -1,7 +1,7 @@
 <h1 align="center">👋Seja bem-vindo(a) ao meu GitHub!</h1>
 <h3 align="center">Sou apenas um brasileiro tentando usar a tecnologia para transformar o mundo em um lugar melhor!</h3>
 
-- 🔭 Projeto atual: **atualmente, estou desenvolvendo a "Paula" e no DJBot, que está em processo de publicação, mas já pode ser adicionado.**
+- 🔭 Projeto atual: **atualmente, estou desenvolvendo a "DoggoBOT" e o "DJBot", que está em processo de publicação, mas já pode ser adicionado.**
 
 - 💬 Uma frase: "Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor". **Coloquei essa frase do Elon Musk, um cara completamente apaixonado pela tecnologia e pelo futuro do mundo, sendo a minha principal inspiração desde que o conheci.**
 
