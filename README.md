@@ -7,11 +7,13 @@
 
 - 🤝 Meus objetivos na programação: **quero apenas crescer dentro do mundo da programação, mas levando tudo apenas como hobbie e experiência.**
 
-- 🚘 Objetivo na vida atual: **comprar um Tesla Model 3.**
+- 🚘 Atrás do dinheiro para o **Tesla Model 3** :)
 
 - ⚡ Se quiser me adicionar no Discord: **alves#0001**
 
-- 🎧 Adicione meu BOT de música em seu server: **http://djbot.epizy.com/**
+- 💸 Investidor da **Ibovespa** e **criptos**. 
+
+- ✏️ Uso também o **Adobe Photoshop e Adobe XD**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
