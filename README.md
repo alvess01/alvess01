@@ -1,5 +1,5 @@
 <h1 align="center">👋Seja bem-vindo(a) ao meu GitHub!</h1>
-<h3 align="center">Sou apenas um brasileiro tentando usar a tecnologia para transformar o mundo em um lugar melhor!</h3>
+<h3 align="center">Sou apenas um brasileiro tentando representar o meu país da melhor forma!</h3>
 
 - 🔭 Projeto atual: **nenhum projeto em andamento.**
 
