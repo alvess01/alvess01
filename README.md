@@ -1,7 +1,7 @@
 <h1 align="center">👋Seja bem-vindo(a) ao meu GitHub!</h1>
 <h3 align="center">Sou apenas um brasileiro tentando usar a tecnologia para transformar o mundo em um lugar melhor!</h3>
 
-- 🔭 Projeto atual: **atualmente, estou desenvolvendo a "DoggoBOT" e o "DJBot", que está em processo de publicação, mas já pode ser adicionado.**
+- 🔭 Projeto atual: **nenhum projeto em andamento.**
 
 - 💬 Uma frase: "Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor". 
 
