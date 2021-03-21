@@ -15,6 +15,8 @@
 
 - ✏️ Uso também o **Adobe Photoshop e Adobe XD**. 
 
+- 💻 Desenvolvedor de apps para plataformas da Apple pela **Swift**. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alvesss_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alvesss_0" height="30" width="40" /></a>
