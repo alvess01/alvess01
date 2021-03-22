@@ -27,11 +27,6 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 
-<h3 align="center">🌐Social Medias:</h3>
-<p align="center">
-  <img alt="Twitter" src="https://img.shields.io/badge/<alvesss_0> %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  <img alt="Twitch" src="https://img.shields.io/badge/<alvess_01>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
-</p>
 
 <h3 align="center">⌨GitHub Status:</h3>
 <a href="https://github.com/alvess01">
