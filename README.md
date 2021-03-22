@@ -29,7 +29,7 @@
 
 <h3 align="center">🌐Social Medias:</h3>
 <p align="center">
-  <img alt="Twitter" src="https://img.shields.io/badge/<alvesss_0> %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img alt="Twitter" href="https://github.com/alvess01" src="https://img.shields.io/badge/<alvesss_0> %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   <img alt="Twitch" src="https://img.shields.io/badge/<alvess_01>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
 </p>
 
