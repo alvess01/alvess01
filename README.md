@@ -7,7 +7,7 @@
 
 • 🤝 I want to grow up within the world of programming. **Exploring new technologies.**
 
-• ⚡ My Discord **alves#0001**
+• ⚡ My Discord: **alves#0001**
 
 • 💸 Investing in **Ibovespa and cryptos**. 
 
