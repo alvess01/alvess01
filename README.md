@@ -32,3 +32,9 @@
   <img alt="Twitter" src="https://img.shields.io/badge/<alvesss_0> %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   <img alt="Twitch" src="https://img.shields.io/badge/<alvess_01>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
 </p>
+
+
+<a href="https://github.com/alvess01">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvess01&theme=react&show_icons=true" style"max-width: 100%;" />
+</a>
